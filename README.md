@@ -8,7 +8,7 @@
   Web Finance developed Maratona Discover.
 </h4>
 <p align="center">
-  <img alt="GitHub top GIF" src="https://imgur.com/a/D47V9Uw" />
+  <img alt="GitHub top GIF" src="https://github.com/Maikon014/web-finance/blob/main/GifGithub/devfinance.gif" />
 
   
   
